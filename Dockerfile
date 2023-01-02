@@ -1,6 +1,6 @@
 ## We specify the base image we need for our
 ## go application
-FROM gokul710/golang:demo
+FROM saba1119/golang:demo
 ## We create an /app directory within our
 ## image that will hold our application source
 ## files
