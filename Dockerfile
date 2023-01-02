@@ -1,5 +1,3 @@
-
-
 ## We specify the base image we need for our
 ## go application
 FROM gokul710/golang:demo
