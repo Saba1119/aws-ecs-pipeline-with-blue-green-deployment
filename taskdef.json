@@ -37,7 +37,7 @@
       "memoryReservation": null,
       "volumesFrom": [],
       "stopTimeout": null,
-      "image": "554248189203.dkr.ecr.us-east-1.amazonaws.com/goapp:latest",
+      "image": "<IMAGE1_NAME>",
       "startTimeout": null,
       "firelensConfiguration": null,
       "dependsOn": null,
